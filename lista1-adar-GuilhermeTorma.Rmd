@@ -164,3 +164,13 @@ round(x = capacidade_campo, digits = 2)
 round(x = ponto_murcha_permanente, digits = 2)
 ```
 
+Exercício 10: Instale a **última versão do R** no (seu) computador usado para resolução da lista. Crie um *script* chamado `solucao-q10-NomeDoAluno.R` contendo os cógigos geradps para solução das questões 7 e 8. Faça as seguintes alterações no código do *script*:
+
+* no códio da questão 8, utilize a temperatura do ar ($T$) de 30°C e Umidade relativa ($UR$) de 30% para calcular $T_{w}$.
+
+* no código da questão 9, considere $SI = 13 (\%)$, $CL = 37 (\%),\ Db = 1.3gcm^{-3},\ Me = 21(\%)$ para recalcular  $\theta_{10kPa}$, $\theta_{33kPa}$ e $\theta_{1500kPa}$.
+
+* após os códigos usados para resolver as questões 8 e 9, adicione uma nova linha com a expressão `sessionInfo()`.
+
+* Finalmente rode o `script` usando o R no modo não iterativo. Anexe o arquivo de saída `solucao-q10-NomdeDoAluno.Rout` como resposta para este problema.
+
